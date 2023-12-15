@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-
-# TempMail telegram bot
-# Developed by Kourva
-# Source code: https://github.com/Kourva/TempMailBot
-
+# -*- coding: utf-8 
 
 # Libraries
 import telebot                        # Bot API Library

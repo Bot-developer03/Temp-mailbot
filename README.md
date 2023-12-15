@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img align='left' src="https://github.com/Kourva/TempMailBot/assets/118578799/d2fe9f8c-89ca-436d-bf57-ffc2c67f772c" width=200 height=200/>
+    <img align='center' src="https://github.com/Kourva/TempMailBot/assets/118578799/d2fe9f8c-89ca-436d-bf57-ffc2c67f772c" width=200 height=200/>
     <h2>TempMail Telegram Bot </h2>
   <p><b>Make unlimited emails just in minute with access to mailbox!</b></p>
   <p><i>Usable for <b>Verification</b> codes and messages, <b>support MIME</b>!</i></p>

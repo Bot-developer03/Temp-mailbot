@@ -28,7 +28,7 @@ Also note that now you can access to attachments (like confirm links) from your 
 # ▋Clone Repository
 To get started, first you need to **clone** this repository from github into your machine:
 ```bash
-git clone https://github.com/Kourva/TempMailBot
+git clone https://github.com/bot-developer03/Temp-MailBot
 ```
 and if you dont have git you can install it from your package manager!
 
@@ -39,7 +39,7 @@ Then you have to install requirements before running bot
 1. Navigate to bot directory
 2. Install requirements using pip
 ```bash
-cd TempMailBot
+cd Temp-MailBot
 ```
 ```bash
 pip install -r requirements.txt
